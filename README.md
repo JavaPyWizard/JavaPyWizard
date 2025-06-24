@@ -5,9 +5,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there+👋;I'm+Divyansh+Kumar+Singh;aka+JavaPyWizard&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=F7971E&vCenter=true" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Divyansh+Kumar+Singh;aka+JavaPyWizard" alt="Typing SVG" />
 </p>
 
+
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm <strong>Divyansh Kumar Singh</strong></h3>
+<h4 align="center">(a.k.a <em><strong>JavaPyWizard</strong></em>)</h4>
 
 
 <p align="center">
