@@ -130,6 +130,15 @@ print(me.greet())
 
 ## 📊 GitHub Stats Dashboard
 
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats#github-stats-card" 
+     title="📊 Stats may vary due to GitHub API limitations (private commits, issues, PRs not shown).">
+    <img src="https://img.shields.io/badge/⚠️_Stats_May_Vary_-_Due_to_API_Limits-orange?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JavaPyWizard&show_icons=true&theme=radical&hide=prs,issues&count_private=true&include_all_commits=true&hide_border=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaPyWizard&layout=compact&theme=radical&hide_border=true&bg_color=30,161b22,0d1117&title_color=58a6ff&text_color=c9d1d9&hide=Jupyter%20Notebook,html" height="180"/>
