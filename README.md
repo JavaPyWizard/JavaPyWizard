@@ -162,6 +162,18 @@ print(me.greet())
 
 ---
 
+## 🎵 Let's Code With Music
+
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px; flex-wrap: wrap;">
+
+![Spotify Animation](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDk1b2VlN2R4eGx0d2F1Y3V6Z3F5Z2RqYzZ6eGJmN3RqdHh0biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohzdIuqJoo8QdKlnW/giphy.gif)
+
+[![Let's Listen Together](https://img.shields.io/badge/🎧_Let's_Listen_Together-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/317ifyufb6gvfwb72ppquar6jdaq)
+
+</div>
+
+---
+
 ## 📌 Fun Facts About Me
 
 - 🎮 I name my Git branches after Harry Potter spells  
