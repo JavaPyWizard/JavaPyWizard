@@ -1,14 +1,18 @@
-<h1 align="center">
-  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> I'm 
-  <span style="color:#58a6ff; font-weight:bold;">Divyansh Kumar Singh</span> <br/>
-  <em>(a.k.a <span style="color:#f39c12; font-weight:bold;">JavaPyWizard</span>)</em>
-</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+I+am+Divyansh+Kumar+Singh;&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=58A6FF&vCenter=true&size=22" />
+</p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=a.k.a.+JavaPyWizard;&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=58A6FF&vCenter=true&size=22" />
+</p>
+
 
 
 <p align="center">
   ✨ <strong>Full-Stack Developer in Training</strong> | <strong>DSA Enthusiast</strong> | <strong>Open-Source Explorer</strong> ✨
 </p>
 
+---
+> “First, solve the problem. Then, write the code.” — John Johnson 
 ---
 
 ## 🧑‍💻 About Me
@@ -28,8 +32,42 @@ class Developer:
 me = Developer()
 print(me.greet())
 ```
+---
+
+<h3 align="center">👀 Profile Visitors</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JavaPyWizard&label=Views&style=for-the-badge&color=58a6ff" alt="Visitor Count"/>
+</p>
+
+</br>
 
 ---
+
+## 🚀 Highlight Projects
+
+---
+
+### 🧠 AI Finance Tracker  
+📊 *Track, analyze, and visualize your personal expenses with this smart finance dashboard.*  
+🔗 [GitHub Repository](https://github.com/JavaPyWizard/AI-Finance-Tracker)  
+🛠️ **Tech Stack**: `Python` · `Pandas` · `Matplotlib`  
+💡 **Features**: Expense Categorization · Interactive Visuals · CLI-based Dashboard
+
+---
+
+### 🐍 Snakeware — Terminal Snake Game  
+🎮 *Classic snake game written in C with real-time movement, food logic, and scoring.*  
+🔗 [GitHub Repository](https://github.com/JavaPyWizard/Snakeware)  
+🛠️ **Tech Stack**: `C`  
+🏆 **Features**: User Controls · Score Tracker · Clean CLI Interface
+
+---
+
+### 🔍 Explore More Projects  
+📂 [View All Repositories →](https://github.com/JavaPyWizard)
+
+---
+</br>
 
 ## 🌟 My Tech Stack
 
@@ -115,12 +153,19 @@ print(me.greet())
 
 ---
 
-<details>
-<summary>📌 <strong>Fun Facts About Me</strong></summary>
+## 📌 Fun Facts About Me
 
-- 🎮 I name my Git branches after Harry Potter spells
-- ☕ My code runs on 70% logic and 30% coffee
-- 🐍 Python enthusiast who still gets bitten by indentation errors
-- 🎸 Secretly wish my terminal had guitar hero-style typing effects
+- 🎮 I name my Git branches after Harry Potter spells  
+- ☕ My code runs on 70% logic and 30% coffee  
+- 🐍 Python enthusiast who still gets bitten by indentation errors  
+- 🎸 Secretly wish my terminal had guitar hero-style typing effects  
 
-</details>
+---
+
+
+```bash
+echo "Thanks for visiting my profile!"
+echo "Keep coding 🚀"
+```
+
+
