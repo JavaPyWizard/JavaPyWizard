@@ -111,7 +111,7 @@ print(me.greet())
 ---
 
 
-## 🎯 My Current Goals
+## 🎯 My Current Goals (2025)
 
 - [ ] 100 Days of Code Challenge (In Progress)
 - [ ] Build 3 Full-Stack Projects
