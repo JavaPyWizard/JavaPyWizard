@@ -109,20 +109,6 @@ print(me.greet())
 
 ---
 
-## 📊 GitHub Stats Dashboard
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JavaPyWizard&show_icons=true&theme=radical&hide=prs,issues&count_private=true&include_all_commits=true&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaPyWizard&layout=compact&theme=radical&hide_border=true&bg_color=30,161b22,0d1117&title_color=58a6ff&text_color=c9d1d9&hide=Jupyter%20Notebook,html" height="180"/>
-  <br><br>
-  <img src="https://streak-stats.demolab.com?user=JavaPyWizard&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9" height="180"/>
-  <br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JavaPyWizard&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" height="180"/>
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavaPyWizard&theme=github_dark" height="180"/>
-</div>
-
----
 
 ## 🎯 My Current Goals
 
@@ -140,6 +126,20 @@ print(me.greet())
   - [ ] 20 Hard  
 - [ ] Contribute to Open Source Projects
 
+---
+
+## 📊 GitHub Stats Dashboard
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JavaPyWizard&show_icons=true&theme=radical&hide=prs,issues&count_private=true&include_all_commits=true&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JavaPyWizard&layout=compact&theme=radical&hide_border=true&bg_color=30,161b22,0d1117&title_color=58a6ff&text_color=c9d1d9&hide=Jupyter%20Notebook,html" height="180"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=JavaPyWizard&theme=radical&hide_border=true&background=0d1117&ring=58a6ff&fire=ff7b72&currStreakLabel=c9d1d9" height="180"/>
+  <br><br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JavaPyWizard&theme=react-dark&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb" height="180"/>
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JavaPyWizard&theme=github_dark" height="180"/>
+</div>
 
 ---
 
