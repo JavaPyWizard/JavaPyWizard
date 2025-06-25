@@ -40,7 +40,6 @@ print(me.greet())
   <img src="https://komarev.com/ghpvc/?username=JavaPyWizard&label=Views&style=for-the-badge&color=58a6ff" alt="Visitor Count"/>
 </p>
 
-</br>
 
 ---
 
