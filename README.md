@@ -12,7 +12,7 @@
 
 
 <p align="center">
-  ✨ <strong>Full-Stack Developer in Training</strong> | <strong>DSA Enthusiast</strong> | <strong>Open-Source Explorer</strong> ✨
+  🚀 <strong>Full-Stack & Data Science Learner</strong> | 🧠 <strong>DSA in Progress</strong> | 🌱 <strong>Always Building</strong>
 </p>
 
 ---
