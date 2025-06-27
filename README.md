@@ -77,7 +77,7 @@ print(me.greet())
 
 ### 💻 Programming Languages
 <p>
-  <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="50" title="Python"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" title="Python"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width="40" title="C Language"/>
   <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="50" title="JavaScript"/>
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" width="40" title="Java Logo"/>
@@ -99,7 +99,7 @@ print(me.greet())
 ### 📊 Data Science
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" title="Pandas"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="50" title="Python"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white"/>
 </p>
