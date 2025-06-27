@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="My Video.gif" width="700" alt="Typing Animation" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+There!+I+am+Divyansh+Kumar+Singh;&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=58A6FF&vCenter=true&size=22" />
 </p>
 <p align="center">
