@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.makeagif.com/media/12-14-2023/gYob_n.gif" width="700" alt="Typing Animation" />
+  <img src="My Video.gif" width="700" alt="Typing Animation" />
 </p>
 
 <p align="center">
