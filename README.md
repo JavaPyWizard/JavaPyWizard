@@ -50,6 +50,7 @@ print(me.greet())
 ### 🧠 AI Finance Tracker  
 📊 *Track, analyze, and visualize your personal expenses with this smart finance dashboard.*  
 🔗 [GitHub Repository](https://github.com/JavaPyWizard/AI-Next-Gen--Powered-Personal-Finance-Tracker)
+
 🛠️ **Tech Stack**: `Python` · `Pandas` · `Matplotlib`  
 💡 **Features**: Expense Categorization · Interactive Visuals · CLI-based Dashboard
 
